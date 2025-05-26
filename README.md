@@ -23,7 +23,7 @@ Locomotive Scroll
 Remix Icons
 
 
-✨ Features
+# ✨ Features
 Smooth scroll animations using Locomotive Scroll
 
 Interactive cursor effects
@@ -41,7 +41,7 @@ Contact form integration
 Social media integration
 
 
-📂 Installation
+ # 📂 Installation
  1 Clone the repository: git clone https://github.com/tannu6918/to-good-co.git
 
 2. Navigate to the project directory:https://twogood.com.au/
